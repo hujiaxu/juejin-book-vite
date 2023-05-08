@@ -5,7 +5,6 @@ import App from './App';
 import 'virtual:windi.css';
 import 'virtual:svg-icons-register';
 
-const str = 'string'
 ReactDOM.render(
   <React.StrictMode>
     <App />
